@@ -1,0 +1,10 @@
+body{background-color: rgb(78, 98, 156);
+
+}
+.Putin{background-color: bisque;
+    width: 750px;
+margin: 0 auto;
+padding: 15px;
+-webkit-box-shadow: -17px -27px 11px 17px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: -17px -27px 11px 17px rgba(34, 60, 80, 0.2);
+box-shadow: -17px -27px 11px 17px rgba(34, 60, 80, 0.2);}
